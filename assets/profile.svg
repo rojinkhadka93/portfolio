@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio profile illustration</title>
+  <desc id="desc">Abstract portrait placeholder for Rojin Khadka</desc>
+  <rect width="400" height="400" rx="200" fill="#eef0ff"/>
+  <circle cx="200" cy="145" r="78" fill="#4f46e5"/>
+  <path d="M75 345c12-83 65-125 125-125s113 42 125 125" fill="#3730a3"/>
+  <circle cx="170" cy="137" r="8" fill="#fff"/>
+  <circle cx="230" cy="137" r="8" fill="#fff"/>
+  <path d="M168 178c20 16 44 16 64 0" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+</svg>
